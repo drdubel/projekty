@@ -4,7 +4,7 @@ t=turtle.Pen()
 
 def losuj_slowo():
     return random.choice([
-        'kalarepa', 'ziemniak', 'chleb', 'drogowskaz', 'bleble', 'bobek'
+        'kalarepa', 'ziemniak', 'chleb', 'drogowskaz', 'dom', 'mazak'
     ])
 
 def generuj_maske(slowo, podane_litery):
